@@ -11,6 +11,8 @@ File arrangement for this:
           -fourier.cpp
           -linearalgebra.hpp
           -linearalgebra.cpp
+          -ODE.hpp
+          -ODE.hpp
           -utils.hpp
           -utils.cpp
 © Vaibhav Pant | Team Faith | All rights reserved, reuse allowed in fair use, non commerical use only
